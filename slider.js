@@ -1,0 +1,4 @@
+$('.photos').bxSlider({
+    pager: false,
+    
+}); 

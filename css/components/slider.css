@@ -1,0 +1,11 @@
+.cont-section {
+  display: flex;
+  flex: 1;
+  background: #f8faf9;
+  position: relative;
+  min-width: 100vh;
+}
+
+.photos-slider {
+  position: relative;
+}
